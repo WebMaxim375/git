@@ -4,7 +4,7 @@ This is a simple web app that fetches the profile of a user from Github and disp
 
 ## How to use
 
-1. Clone the repository.
+**1. Clone the repository.**
 2. Open the index.html file in your browser.
 3. Enter your Github username in the input field.
 4. Click the "Search" button.
