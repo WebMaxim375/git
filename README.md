@@ -1,2 +1,2 @@
 # git
-** get out of here this is private repo **
+# ** get out of here this is private repo **
