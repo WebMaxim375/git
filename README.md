@@ -1,20 +1,14 @@
-#This
-Preview
-hi tag
-#This is an h2 tag
-This is an hii tag
-**This text will bold**
-"This tent will be italic"
-This is thordered list:
-Itsa 1
-Item 2
-<
-11
-13 javascript.
-14
-35 let str this is is code
-38
-10 [this is link (http://github.com)
-19
-21
-[this in imel(https://user-images.githusercontent.com
+# Github Profile
+
+This is a simple web app that fetches the profile of a user from Github and displays it on the page.
+
+## How to use
+
+1. Clone the repository.
+2. Open the index.html file in your browser.
+3. Enter your Github username in the input field.
+4. Click the "Search" button.
+5. The profile of the user will be displayed on the page.
+6. You can also view the source code to understand how it works.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+## Screenshot
+![Screenshot](screenshot.png)
